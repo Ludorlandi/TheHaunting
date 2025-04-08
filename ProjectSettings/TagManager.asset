@@ -8,6 +8,8 @@ TagManager:
   - PADRE
   - MADRE
   - FRATELLO
+  - SORELLA
+  - MURO
   layers:
   - Default
   - TransparentFX
